@@ -15,7 +15,7 @@ Valid view page
 *** Keywords ***
 Open Browser To view the Page
     Open Browser    ${LOGIN URL}    ${BROWSER}
-    Title Should Be    Bruidjes Bijeen – Uw online party planner
+    Title Should Be    Bruidjes Bijeen – w online party planner
 
 
 
