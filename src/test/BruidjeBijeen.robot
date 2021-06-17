@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation     A simple test for the homepage of bruidjes bijeen
-Resource          ../Resources/HomePageResource.robot
+Resource          BruidjesBijeenResource.robot
 
 
 *** Test Cases ***
